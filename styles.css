@@ -1,0 +1,49 @@
+.head1 {
+    background-color: black;
+    color: white;
+}
+
+.navigation-bar ul li a {
+    color: black;
+    font-weight: bolder;
+}
+
+.navigation-bar ul li a:hover {
+    color: red;
+}
+
+
+#gradient_bg {
+    background:linear-gradient(red, orange);
+}
+
+#card1 {
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: #b34700;
+}
+
+.footer_copyright {
+    border-top: 1px solid white;
+
+}
+
+
+.img1 {
+    background-image: url('images/backgrounds.webp');
+    background-repeat: no-repeat;
+    background-blend-mode: color-dodge;
+    background-size: cover;
+    font-weight: bolder;
+    text-align: center;
+    padding: 150px;
+}
+
+p {
+    color:  #47476b;
+}
+
+.bordered {
+    border-bottom: 2px solid #47476b;
+}
